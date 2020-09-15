@@ -1,5 +1,6 @@
 # Data Structures
-###What are Data Structures?
+##What are Data Structures?
+
 What are Data Structures? Well, in easy terms, Data Structures are different forms can save our data in.
 
 When I first came across Data Structures, I had to watch 3 different videos to get a hold of what it actually means.
@@ -16,12 +17,18 @@ So to make your life easy, here are a couple of examples of Data Structures:
  
  
  ##Binary
+ 
+ ![alt text](https://study.com/cimages/multimages/16/0e0646ba-30e5-40d9-b45c-a138f038f05b_full_complete_perfect.png)
+
+
 Here are the different types of binary trees: 
 - **Full binary tree**: Every node other than leaf nodes has 2 child nodes.
 - **Complete binary tree**: All levels are filled except possibly the last one, and all nodes are filled in as far left as possible.
 - **Perfect binary tree**: All nodes have two children and all leaves are at the same level.
  
  ##Heaps
+ ![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/MinHeapAndMaxHeap.png)
+ 
  **Heaps** concrete data structures. What are concrete data structures? Well, there are two types of data structures: Abstract Data Structures(ADT) and Concrete Data Structures(CDT). An ADT determines the interface, while the CDT define the implementation.
  Here are  a couple of pros for each type of data structure:
  
