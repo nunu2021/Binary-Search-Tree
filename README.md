@@ -10,7 +10,7 @@ So to make your life easy, here are a couple of examples of Data Structures:
     - Lists
  - Trees
     - **Binary**
-    - Heaps
+    - **Heaps**
     - Space Partitioning
  - Hash
  - Graphs
@@ -60,4 +60,5 @@ Logarithms grow slowly. The base-2 logarithm of fifteen is about four, while the
  - Getting the three most popular blog posts from hit data
 - Finding the fastest way to get from one point to the other
 - Predicting which bus will be the first to arrive at a station based on arrival frequency
+ 
  
