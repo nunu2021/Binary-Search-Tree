@@ -1,5 +1,5 @@
 # Data Structures
-## What are Data Structures?
+### What are Data Structures?
 
 What are Data Structures? Well, in easy terms, Data Structures are different forms can save our data in.
 

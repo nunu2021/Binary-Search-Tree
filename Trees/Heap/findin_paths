@@ -1,0 +1,18 @@
+import heapq
+
+map = """\
+.......X..
+.......X..
+....XXXX..
+..........
+..........
+"""
+
+def parse_map(map):
+    lines = map.splitlines()
+    origin = 0, 0
+    destination = len(lines[-1]) - 1, len(lines) - 1
+    return lines, origin, destination
+
+
+print(parse_map(map))
