@@ -1,4 +1,4 @@
-# This is a single node in a Binary Tree
+# This is a single node in a Binary-Search-Tree Tree
 class Node(object):
     def __init__(self, value):
         self.value = value
