@@ -28,3 +28,6 @@ print(a)
 # heappushpop() is equivalent to heappush() followed by heappop().
 
 a = [2, 5, 3, 7, 6, 8, 4]
+
+
+# a good idea to implement heap structures is finding the closest outlet near you.
